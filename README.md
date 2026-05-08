@@ -1,5 +1,5 @@
 <h1 align="center">Muhammed Köse</h1>
-<h3 align="center">AI Developer · Senior Software Engineering Student @ Karabük University · Founder of Visuality</h3>
+<h3 align="center">AI Developer · Software Engineering @ Karabük University · Founder of Visuality</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammedksee/" target="_blank">
