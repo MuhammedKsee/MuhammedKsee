@@ -87,11 +87,11 @@ No catastrophic forgetting — English reasoning is fully preserved after Turkis
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammedksee&show_icons=true&theme=default&hide_border=true&include_all_commits=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedksee&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedksee&layout=compact&theme=default&hide_border=true" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedksee&layout=compact&theme=default&hide_border=true" width="40%" />
+  <sub>Open to collaboration on LLM fine-tuning, VLM research, and local AI deployment.</sub>
 </p>
 
 ---
