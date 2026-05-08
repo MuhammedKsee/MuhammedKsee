@@ -18,7 +18,7 @@
 
 ## About
 
-I'm a senior software engineering student at **Karabük University** (graduating 2026) and founder of **Visuality**, an AI-focused initiative.
+I'm a software engineering at **Karabük University** (graduating 2026) and founder of **Visuality**, an AI-focused initiative.
 
 My current work sits at the intersection of large language models, vision-language architectures, and real-world deployment. I build things that run on consumer hardware as well as enterprise GPUs — from local GGUF quantizations to H100-trained fine-tunes.
 
